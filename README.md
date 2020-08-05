@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 [website]: https://www.toni-hoffmann.com
 [linkedin]: https://www.linkedin.com/in/toni-hoffmann-munich/
 [xing]: https://www.xing.com/profile/Toni_Hoffmann7/
+
+
+<img align="left" alt="xremix's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xremix&show_icons=true&hide_border=true" />
