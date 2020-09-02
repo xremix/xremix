@@ -2,6 +2,10 @@
 
 I'm Toni, a Senior Software Developer from Munich, working mostly on business mobile apps and web applications and marketing communication websites.
 
+### My Passion 👨‍💻
+
+For me, Software Engineering is about complex problem solving, understanding people, creating aesthetic design, being a communicator between domain areas, achieving goals, performing creativity, thinking in strategies... but it's also about coding and a passion to tech. 
+
 <!--
 **xremix/xremix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
