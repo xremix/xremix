@@ -29,9 +29,15 @@ Here are some ideas to get you started:
 <br />
 
 <div align="center">
-[<img align="left" alt="www.toni-hoffmann.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Toni Hoffmann | Xing" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
-[<img align="left" alt="Toni Hoffmann | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+  <a href="https://www.toni-hoffmann.com">
+      <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22px" alt="Toni Hoffmann | Homepage">
+  </a>
+  <a href="https://www.toni-hoffmann.com">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" width="22px" alt="Toni Hoffmann | Xing">
+  </a>
+  <a href="https://www.toni-hoffmann.com">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="Toni Hoffmann | LinkedIn">
+  </a>
 </div>
 
 <br />
