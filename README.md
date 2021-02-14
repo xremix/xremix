@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://www.toni-hoffmann.com">
-      <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="width: 22px; margin-right:10px;" alt="Toni Hoffmann | Homepage">
+      <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22px" style="margin-right:10px;" alt="Toni Hoffmann | Homepage">
   </a>
   <a href="https://www.toni-hoffmann.com">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" style="width: 22px; margin-right:10px;" alt="Toni Hoffmann | Xing">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" width="22px" style="margin-right:10px;" alt="Toni Hoffmann | Xing">
   </a>
   <a href="https://www.toni-hoffmann.com">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="width: 22px; margin-right:10px;" alt="Toni Hoffmann | LinkedIn">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" style="margin-right:10px;" alt="Toni Hoffmann | LinkedIn">
   </a>
 </div>
 
