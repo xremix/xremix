@@ -7,7 +7,6 @@ I'm Toni, a Senior Software Developer from Munich, working mostly on business mo
 For me, Software Engineering is about complex problem solving, understanding people, creating aesthetic design, being a communicator between domain areas, achieving goals, performing creativity, thinking in strategies... but it's also about coding and a passion to tech.
 
 <!--
-**xremix/xremix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -24,19 +23,19 @@ Here are some ideas to get you started:
 
 
 
-### Connect with me 📞
+### Connect with me 📫
 
 <br />
 
 <div align="center">
   <a href="https://www.toni-hoffmann.com">
-      <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22px" alt="Toni Hoffmann | Homepage">
+      <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="width: 22px; margin-right:10px;" alt="Toni Hoffmann | Homepage">
   </a>
   <a href="https://www.toni-hoffmann.com">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" width="22px" alt="Toni Hoffmann | Xing">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" style="width: 22px; margin-right:10px;" alt="Toni Hoffmann | Xing">
   </a>
   <a href="https://www.toni-hoffmann.com">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" alt="Toni Hoffmann | LinkedIn">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="width: 22px; margin-right:10px;" alt="Toni Hoffmann | LinkedIn">
   </a>
 </div>
 
