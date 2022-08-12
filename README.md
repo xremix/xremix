@@ -31,20 +31,23 @@ Here are some ideas to get you started:
   <li>
   <a href="https://www.toni-hoffmann.com">
       <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" width="22px" style="margin-right:10px;" alt="Toni Hoffmann | Homepage">
-  </a> 
+    
     Homepage
+  </a> 
   </li>
   <li>
   <a href="https://www.toni-hoffmann.com">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" width="22px" style="margin-right:10px;" alt="Toni Hoffmann | Xing">
-  </a>
+    
     Xing
+  </a>
   </li>
   <li>
   <a href="https://www.toni-hoffmann.com">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" style="margin-right:10px;" alt="Toni Hoffmann | LinkedIn">
+        LinkedIn
   </a>
-    LinkedIn
+
   </li>
 </ul>
 
