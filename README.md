@@ -34,12 +34,12 @@ Here are some ideas to get you started:
   </a> 
   </li>
   <li>
-  <a href="https://www.toni-hoffmann.com">
+  <a href="https://xing.com/profile/Toni_Hoffmann7/cv">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" width="22px" style="margin-right:10px;" alt="Toni Hoffmann | Xing">   Xing
   </a>
   </li>
   <li>
-  <a href="https://www.toni-hoffmann.com">
+  <a href="https://www.linkedin.com/in/toni-hoffmann-munich/">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px" style="margin-right:10px;" alt="Toni Hoffmann | LinkedIn">
         LinkedIn
   </a>
