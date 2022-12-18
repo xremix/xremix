@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Toni, a Senior Software Developer from Munich, working mostly on mobile business apps, web applications and marketing communication websites.
+I'm Toni, a Lead Software Engineer from Munich, working mostly on mobile business apps, web applications and marketing communication websites.
 
 ### My Passion 👨‍💻
 
