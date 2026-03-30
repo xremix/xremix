@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Toni, a Software Engineer Team Lead from Munich, working mostly on mobile business apps, web applications and marketing communication websites.
+I'm Toni, a Lead in Software Engineering from Munich, working mostly on mobile business apps, web applications and marketing communication websites.
 
 ### My Passion 👨‍💻
 
