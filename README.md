@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <br />
 
-<img align="left" alt="xremix's Github Stats" src="https://github-readme-stats.vercel.app/api?username=xremix&show_icons=true&hide_border=true" />
+[![xremix's GitHub stats](https://github-stats-extended.vercel.app/api?username=xremix)](https://github.com/stats-organization/github-stats-extended)
 
 
 [website]: https://www.toni-hoffmann.com
